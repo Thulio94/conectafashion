@@ -160,7 +160,6 @@ h1 {
 }
 
 .price-text {
-    text-shadow: 0 0 10px #ff0, 0 0 20px #ff0;
     position: relative;
     z-index: 2;
 }
